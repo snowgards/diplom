@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541133222993",
+    "project_id": "lensa-1b3c7",
+    "storage_bucket": "lensa-1b3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541133222993:android:0867b6df8ff2191fd23470",
+        "android_client_info": {
+          "package_name": "ru.arinae_va.lensa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCeWkErFewbBvf2_PTr4nXoLdh-VgpvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
